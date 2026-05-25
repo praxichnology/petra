@@ -91,7 +91,7 @@ To cite PeTRA as a software/methodology artifact, use the Zenodo DOI: [10.5281/z
 
 ## Contact
 
-Christian S. Loh, Ph.D. · csloh@siu.edu
+Christian S. Loh, Ph.D. · [ORCID 0000-0002-6318-3890](https://orcid.org/0000-0002-6318-3890)
 Professor · School of Education · Southern Illinois University Carbondale
 
-For PeTRA-related inquiries — Path 2 collaboration proposals, Path 3 license inquiries, methodology questions, citation queries — please email above.
+For PeTRA-related inquiries — Path 2 collaboration proposals, Path 3 license inquiries, methodology questions, citation queries — please [open an issue](https://github.com/praxichnology/petra/issues).
