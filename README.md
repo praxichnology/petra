@@ -2,7 +2,7 @@
 
 **An analytics engine for serious games, published as Open Documentation.**
 
-[![DOI](https://zenodo.org/badge/1221296838.svg)](https://doi.org/10.5281/zenodo.19782551)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19782551.svg)](https://doi.org/10.5281/zenodo.19782551)
 
 PeTRA is a research-grade analytics engine designed to read player behavior in serious games — not just outcomes (scores, completion), but the *information trails* players leave through the game environment over repeated play. Developed alongside *Nexus* (a serious game on social media risk awareness) as a paired example, PeTRA is intended to grow into a common analytics core that other serious-game researchers can adapt to their own games.
 
@@ -24,13 +24,13 @@ Academic methodology papers are, in effect, *blueprints* — they describe HOW t
 The choice reflects two realities:
 
 1. **Academic norms** of methodological transparency are met when design rationale and architecture are openly documented for reviewers, replicators, and other researchers.
-2. **2026 security realities**: automated AI-assisted vulnerability scanning makes traditional open-source attack surfaces too costly to defend for a small research team.
+2. **2026 security realities**: automated AI-assisted vulnerability scanning makes traditional open-source attack surfaces too costly to defend for researcher(s).
 
 ---
 
 ## For researchers wanting to use PeTRA
 
-PeTRA offers three paths, each suited to different research needs:
+PeTRA offers two paths, each suited to different research needs:
 
 ### Path 1 — Build your own implementation from the documentation
 
@@ -56,17 +56,7 @@ Because Path 2 is a genuine research collaboration — Loh contributes the engin
 **Cost**: free.
 **Obligations**: co-publication agreement.
 
-To inquire: email the author with your name, institutional affiliation, a brief description of your serious game and research project, your IRB approval status, and your willingness to co-publish.
-
-### Path 3 — Snapshot license for self-hosting
-
-For researchers who need to run PeTRA on their own infrastructure (typically due to IRB requirements, data residency rules, or institutional policies), a snapshot license is available. You receive a frozen version of PeTRA at the time of license; you run it on your infrastructure; you handle security and maintenance. PeTRA's continued development happens privately — newer versions are not provided as part of the snapshot license.
-
-**Best for**: researchers with self-hosting requirements that prevent using Path 2.
-**Cost**: token fee (covers administrative costs).
-**Obligations**: non-redistribution agreement; you are responsible for the security and maintenance of your installation.
-
-To inquire: email the author with your name, institutional affiliation, the reason a self-hosted version is required, and your IRB approval status.
+To inquire, contact the author ([ORCID 0000-0002-6318-3890](https://orcid.org/0000-0002-6318-3890)) with your name, institutional affiliation, a brief description of your serious game and research project, your IRB approval status, and your willingness to co-publish.
 
 ---
 
@@ -94,4 +84,4 @@ To cite PeTRA as a software/methodology artifact, use the Zenodo DOI: [10.5281/z
 Christian S. Loh, Ph.D. · [ORCID 0000-0002-6318-3890](https://orcid.org/0000-0002-6318-3890)
 Professor · School of Education · Southern Illinois University Carbondale
 
-For PeTRA-related inquiries — Path 2 collaboration proposals, Path 3 license inquiries, methodology questions, citation queries — please [open an issue](https://github.com/praxichnology/petra/issues).
+For PeTRA-related inquiries — methodology questions, citation queries — please [open an issue](https://github.com/praxichnology/petra/issues).
