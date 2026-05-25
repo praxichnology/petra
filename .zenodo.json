@@ -1,9 +1,9 @@
 {
   "title": "PeTRA — Open Documentation",
-  "description": "Open Documentation for PeTRA, an analytics engine for serious games. Methodology, design rationale, and architecture for researchers building their own implementations.",
+  "description": "Open Documentation for PeTRA, an analytics engine for serious games. Methodology, design rationale, and architecture for researchers building their own implementations. PeTRA is a worked example of praxichnology, the methodological framework for reading traces produced through situated activity in designed environments (Loh, 2026; preprint https://doi.org/10.5281/zenodo.20148907).",
   "creators": [
     {
-      "name": "Loh, Christian Sebastian",
+      "name": "Loh, Christian S.",
       "affiliation": "Southern Illinois University Carbondale",
       "orcid": "0000-0002-6318-3890"
     }
